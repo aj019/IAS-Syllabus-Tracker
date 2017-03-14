@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920090929196",
+    "firebase_url": "https://ias-syllabus-tracker-d672d.firebaseio.com",
+    "project_id": "ias-syllabus-tracker-d672d",
+    "storage_bucket": "ias-syllabus-tracker-d672d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920090929196:android:7830a8228d272828",
+        "android_client_info": {
+          "package_name": "com.androidmate.ias.syllabus.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920090929196-d3j6pd1m768vk36tkmlct9dkupq2l0dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidmate.ias.syllabus.tracker",
+            "certificate_hash": "DC3CBB50B95B11DD19E8DF634FF83A3696707871"
+          }
+        },
+        {
+          "client_id": "920090929196-1ep233um8aj7ke6eu2lfkqu0ggpkgt8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWHD39-hfg4LHusfhCH_6qQ747_i0P_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920090929196-1ep233um8aj7ke6eu2lfkqu0ggpkgt8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
